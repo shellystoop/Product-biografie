@@ -8,5 +8,9 @@ Het lettertype is herkenbaar door de ronde hoeken welke omgezet zullen worden na
 
 ![Kleuren en typografie](../.gitbook/assets/kleuren-en-typo.png)
 
+## Logo groot vs klein
 
+![](../.gitbook/assets/logo-groot.png)
+
+![](../.gitbook/assets/logo-world-of-whisky.svg)
 
