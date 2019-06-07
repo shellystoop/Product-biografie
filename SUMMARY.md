@@ -39,6 +39,5 @@
   * [Prototype 3.0](fase-2-creeren/prototype-3.0/README.md)
     * [Test en resultaten prototype 3.0](fase-2-creeren/prototype-3.0/test-en-resultaten-prototype-3.0.md)
   * [Eindproduct](fase-2-creeren/eindproduct.md)
-* [Fase 4: Valideren](fase-4-valideren.md)
 * [Bronnen](bronnen.md)
 

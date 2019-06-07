@@ -17,5 +17,3 @@
 
 {% page-ref page="fase-2-creeren/" %}
 
-{% page-ref page="fase-4-valideren.md" %}
-
