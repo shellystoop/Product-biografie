@@ -60,7 +60,7 @@ _1.      De competitieve bezoeker_
 
 De competitieve bezoeker heeft een goede intuïtie en bekijkt een website snel. Deze bezoeker legt snel verbanden en ziet een groter geheel. De competitieve bezoeker kan snel beslissingen nemen als de belangrijkste feiten meteen voor hem of haar zichtbaar zijn. Bol.com speelt hier bijvoorbeeld goed op in door naast een product kort en krachtig de belangrijkste feiten op te sommen, zoals levertijd, verzendkosten en prijs. Wanneer de competitieve bezoeker meteen de informatie voorhanden heeft en deze voldoet aan de verwachting, zal deze normaliter overgaan tot actie.
 
-![Bol.com](../../../.gitbook/assets/image%20%281%29.png)
+![Bol.com](../../../.gitbook/assets/image%20%2820%29.png)
 
 _Hoe zorg je ervoor dat je de competitieve bezoeker optimaal bedient op je website?_
 
@@ -70,7 +70,7 @@ _2.      De methodische bezoeker_
 
 De methodische bezoeker baseert net als de competitieve bezoeker de beslissingen op feiten. Het verschil tussen de competitieve en methodische bezoeker zit ‘m echter in de snelheid waarmee de informatie tot zich genomen wordt. Waar de competitieve bezoeker snel de site scant op feitelijke informatie, zoekt de methodische bezoeker langzaam naar feiten en bekijkt ieder detail. De methodische bezoeker neemt weloverwogen besluiten en komt hier niet snel op terug.
 
-![Boek Bol.com](../../../.gitbook/assets/image.png)
+![Boek Bol.com](../../../.gitbook/assets/image%20%2818%29.png)
 
 _Hoe zorg je ervoor dat je de methodische bezoeker optimaal bedient op je website?_
 
